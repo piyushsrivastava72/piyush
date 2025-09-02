@@ -4,14 +4,14 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, coll
 
 ## 🚀 About  
 
-- 💼 **Profession:** _[Senior Engineer]_
-- 🌍 **Location:** _[DFW/USA]_
-- 🧠 **Interests:** _[Cloud Computing, Machine Learning, Telecommunication, Automation, OpenStack, Networking, 5G, 6G]_
+- 💼 **Profession:** _Senior Engineer_
+- 🌍 **Location:** _DFW/USA_
+- 🧠 **Interests:** _Cloud Computing, Machine Learning, Telecommunication, Automation, OpenStack, Networking, 5G, 6G_
 
 ## 🛠️ Skills
 
-- _[Python, SQL, Docker, Container, Kubernetes, Openstack, AWS, EKS, GCP, Redhat OCP.]_
-- _[IP Multimedia Subsystem, Hybrid Cloud, Session Initiation Protocol, Red Hat Linux, Cloud Application,Network Design, Architectural Design, Mobile Technology, Telecommunication, RAN, 5G, 6G]_
+- _Python, SQL, Docker, Container, Kubernetes, Openstack, AWS, EKS, GCP, Redhat OCP._
+- _IP Multimedia Subsystem, Hybrid Cloud, Session Initiation Protocol, Red Hat Linux, Cloud Application,Network Design, Architectural Design, Mobile Technology, Telecommunication, RAN, 5G, 6G_
 
 ## 📈 GitHub Stats
 
@@ -21,9 +21,9 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, coll
 
 | Project        | Description                                           | Link                      |
 |----------------|------------------------------------------------------|---------------------------|
-| _[Pack-Stack-OpenStack-Installation]_  | _[OpenStack With Pack-Stack]_                     | [Repo](https://github.com/piyushsrivastava72/Pack-Stack-OpenStack-Installation)                 |
-| _[AIML]_  | _[AIML]_                     | [Repo](https://github.com/piyushsrivastava72/AIML)                 |
-| _[Data Science]_  | _[Data Science]_                     | [Repo](https://github.com/piyushsrivastava72/Data-Science)                 |
+| _Pack-Stack-OpenStack-Installation_  | _OpenStack With Pack-Stack_                     | [Repo](https://github.com/piyushsrivastava72/Pack-Stack-OpenStack-Installation)                 |
+| _AIML_  | _AIML_                     | [Repo](https://github.com/piyushsrivastava72/AIML)                 |
+| _Data Science_  | _Data Science_                     | [Repo](https://github.com/piyushsrivastava72/Data-Science)                 |
 
 ## 📫 Connect with Me
 
