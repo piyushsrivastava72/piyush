@@ -27,14 +27,14 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, coll
 
 ## 📫 Connect with Me
 
-- [LinkedIn](#https://www.linkedin.com/in/piyush-cloud/)
+- [LinkedIn](https://www.linkedin.com/in/piyush-cloud/)
 - [OpenInfra](https://openinfra.org/a/community/members/101928)
 - [Personal Website]
 - [Email](mailto:piyushsrivastava72@gmail.com)
 
 ---
 
-> _"Chase For Dreams"_
+> _"Not everythings that is faces can be changes, but noting can be changed until it is faced"_
 
 ---
 
