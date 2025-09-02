@@ -15,7 +15,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, coll
 
 ## 📈 GitHub Stats
 
-![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushsrivastava72_piyush&show_icons=true&hide=contribs,prs)
+![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushsrivastava72&show_icons=true&hide=contribs,prs)
 
 ## 🌟 Featured Projects
 
