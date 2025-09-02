@@ -11,7 +11,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, coll
 ## 🛠️ Skills
 
 - _[Python, SQL, Docker, Container, Kubernetes, Openstack, AWS, EKS, GCP, Redhat OCP.]_
-- _[IMS, SIP, UE, Telecom, 5G, 6G]_
+- _[IP Multimedia Subsystem, Hybrid Cloud, Session Initiation Protocol, Red Hat Linux, Cloud Application,Network Design, Architectural Design, Mobile Technology, Telecommunication, RAN, 5G, 6G]_
 
 ## 📈 GitHub Stats
 
@@ -22,8 +22,8 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, coll
 | Project        | Description                                           | Link                      |
 |----------------|------------------------------------------------------|---------------------------|
 | _[Pack-Stack-OpenStack-Installation]_  | _[OpenStack With Pack-Stack]_                     | [Repo](https://github.com/piyushsrivastava72/Pack-Stack-OpenStack-Installation)                 |
-| _[Project 2]_  | _[Brief description of project]_                     | [Repo](#)                 |
-| _[Project 3]_  | _[Brief description of project]_                     | [Repo](#)                 |
+| _[AIML]_  | _[AIML]_                     | [Repo](https://github.com/piyushsrivastava72/AIML)                 |
+| _[Data Science]_  | _[Data Science]_                     | [Repo](https://github.com/piyushsrivastava72/Data-Science)                 |
 
 ## 📫 Connect with Me
 
