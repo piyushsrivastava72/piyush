@@ -34,7 +34,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, coll
 
 ---
 
-> _"Not everything that is faces can be changed, but noting can be changed until it is faced"_
+> _"Not everything that is faced can be changed, but noting can be changed until it is faced"_
 
 ---
 
